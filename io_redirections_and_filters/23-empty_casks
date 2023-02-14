@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -Hn -empty
+find . -hn -empty
